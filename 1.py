@@ -12,7 +12,7 @@
 
 import math
 print("---------------------cedricxs----------------------")
-d=raw_input('expression:')
+d=input('expression:')
 print(d)
 c=d.split('=')[0].split('+')
 c.append(d.split('=')[1])
