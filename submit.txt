@@ -1,0 +1,907 @@
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/157164493/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/157164252/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157164238/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157163924/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157163872/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/157165670/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157165627/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157165533/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"45 ms","url":"/submissions/detail/156256253/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"45 ms","url":"/submissions/detail/156256171/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156256050/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156255773/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156255570/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156255552/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156255315/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156255147/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156255126/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156254676/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156254642/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156253909/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156253894/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156253664/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156253621/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156253348/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156253136/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156253021/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156253011/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156252974/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/157166924/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/157166866/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157166653/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157166616/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157166170/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157165918/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"51 ms","url":"/submissions/detail/156248050/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"53 ms","url":"/submissions/detail/156247913/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"50 ms","url":"/submissions/detail/156247833/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156247678/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156247624/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156247603/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156247220/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156247006/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156246914/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156246703/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156246626/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156246224/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156245926/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156245860/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"32 ms","url":"/submissions/detail/156872610/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"52 ms","url":"/submissions/detail/156872559/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"404 ms","url":"/submissions/detail/156870574/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156870245/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156870152/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156870091/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156870082/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156870046/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156870034/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"544 ms","url":"/submissions/detail/156869764/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156869637/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"472 ms","url":"/submissions/detail/156869511/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156869330/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"24 ms","url":"/submissions/detail/156867621/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156867562/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156867460/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"80 ms","url":"/submissions/detail/156868810/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156868787/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/156244664/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"10 ms","url":"/submissions/detail/156244334/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156244140/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156244007/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156243944/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156243913/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156243722/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156243584/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156243527/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156243502/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156243356/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156243307/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156243104/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"14 ms","url":"/submissions/detail/156242733/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"18 ms","url":"/submissions/detail/156242596/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156242560/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/156871132/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"12 ms","url":"/submissions/detail/156871074/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156870989/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"12 ms","url":"/submissions/detail/156867272/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156867245/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/156713264/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156713030/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156712966/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156707872/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156707823/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"63 ms","url":"/submissions/detail/156706214/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"58 ms","url":"/submissions/detail/156705352/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"56 ms","url":"/submissions/detail/156704893/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"57 ms","url":"/submissions/detail/156704838/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"25 ms","url":"/submissions/detail/156242061/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"43 ms","url":"/submissions/detail/156242034/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"25 ms","url":"/submissions/detail/156242003/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3Â months","status_display":"Accepted","runtime":"7 ms","url":"/submissions/detail/156678508/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/159227222/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159227139/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159226768/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159226657/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159226635/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159226450/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159226391/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/156240416/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156240353/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156240267/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156240133/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156240098/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156239841/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156235378/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156235368/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156235338/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156233494/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"7 ms","url":"/submissions/detail/156227175/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156225285/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156224930/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156224732/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156224703/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156224370/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156224320/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156224219/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156223861/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156223748/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156223735/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156223714/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/156872175/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/156872158/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/156872118/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156872099/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/156871979/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156871944/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156871869/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156871799/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156871683/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156871662/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156871632/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156871616/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/156679016/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156678960/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"6 ms","url":"/submissions/detail/156222253/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/156222210/","is_pending":"Not Pending","title":""}
+{"lang":"c","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156097272/","is_pending":"Not Pending","title":""}
+{"lang":"c","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156097233/","is_pending":"Not Pending","title":""}
+{"lang":"c","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156097152/","is_pending":"Not Pending","title":""}
+{"lang":"c","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156097093/","is_pending":"Not Pending","title":""}
+{"lang":"c","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156097009/","is_pending":"Not Pending","title":""}
+{"lang":"c","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156096856/","is_pending":"Not Pending","title":""}
+{"lang":"c","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156096839/","is_pending":"Not Pending","title":""}
+{"lang":"c","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156096590/","is_pending":"Not Pending","title":""}
+{"lang":"python","time":"3 months","status_display":"Accepted","runtime":"35 ms","url":"/submissions/detail/156096311/","is_pending":"Not Pending","title":""}
+{"lang":"python","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156096276/","is_pending":"Not Pending","title":""}
+{"lang":"python","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156096256/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"3 ms","url":"/submissions/detail/156095781/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/156095745/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"3 ms","url":"/submissions/detail/156094559/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156094326/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156094263/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156094183/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156094117/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156092880/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156092835/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/156250194/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156250080/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156250056/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156250036/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156249904/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156249860/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156249482/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156249188/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156249101/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156249046/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156249025/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156249002/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156248364/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/159370665/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159370570/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/152640656/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152640587/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/152640571/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/159369917/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/159369834/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159369809/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/159369054/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Output Limit Exceeded","runtime":"N/A","url":"/submissions/detail/159368998/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159368751/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159368564/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159368420/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/159368033/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/159367686/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/159367618/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/159367284/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Output Limit Exceeded","runtime":"N/A","url":"/submissions/detail/159366985/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/159366863/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Output Limit Exceeded","runtime":"N/A","url":"/submissions/detail/159366239/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Output Limit Exceeded","runtime":"N/A","url":"/submissions/detail/159365931/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159363442/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159363414/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/159362812/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/159362799/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158937087/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158937042/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158936730/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158936536/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158936195/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158780306/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158780238/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158780020/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158779777/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/159354289/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/159354149/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159354098/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159354083/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/159354059/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/159353993/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/159353883/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/159353730/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Accepted","runtime":"7 ms","url":"/submissions/detail/152638894/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/152638782/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/152638764/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152638482/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158626376/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158625840/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158622267/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Accepted","runtime":"14 ms","url":"/submissions/detail/152638051/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152637967/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/152637912/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/152637658/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/152631815/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/152631775/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158621191/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158621117/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158620816/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158620677/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/158618736/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/156083859/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"7 ms","url":"/submissions/detail/156083333/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156083256/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156083241/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156083175/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156083121/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156083092/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"14 ms","url":"/submissions/detail/156081746/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"17 ms","url":"/submissions/detail/156081694/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"16 ms","url":"/submissions/detail/156081560/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"16 ms","url":"/submissions/detail/156081528/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"16 ms","url":"/submissions/detail/156081504/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"15 ms","url":"/submissions/detail/156081408/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"6 ms","url":"/submissions/detail/156080087/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/156080041/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156055928/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156055857/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"216 ms","url":"/submissions/detail/156054443/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"204 ms","url":"/submissions/detail/156054287/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156054215/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156054097/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156053975/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156053931/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156053583/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156053501/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156053383/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156053083/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156053028/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156052934/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156052836/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156052482/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156052351/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156052185/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"52 ms","url":"/submissions/detail/159347711/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Output Limit Exceeded","runtime":"N/A","url":"/submissions/detail/159347660/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/159346731/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158290708/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158290656/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158290454/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158290283/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158289817/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158289673/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158289584/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158289562/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158289021/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158288510/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158288325/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158288267/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158286483/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"6 ms","url":"/submissions/detail/156047605/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156047079/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156047027/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156046987/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156046746/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156046675/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156046482/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156046436/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156046373/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156046348/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"52 ms","url":"/submissions/detail/156045421/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156045397/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156044917/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156044596/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156044374/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156044277/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"75 ms","url":"/submissions/detail/156044023/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156043907/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156043829/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156043267/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156043000/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156042279/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156042155/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/156041927/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Accepted","runtime":"3 ms","url":"/submissions/detail/152630967/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152630950/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152630925/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4Â months","status_display":"Accepted","runtime":"32 ms","url":"/submissions/detail/152629811/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158566110/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158566031/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158565909/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158565122/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158564941/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158564437/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158564007/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158563586/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158562310/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158562064/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158561937/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/152629734/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152629650/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152629612/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152629353/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152628843/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152628817/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/152628412/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152628391/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152628170/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152628029/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/152628011/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152627923/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/152627468/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152627337/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152627314/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152627132/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152627091/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/152627068/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152626967/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152626930/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152626903/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152626723/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/152626681/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/152626668/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152626636/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/152626624/","is_pending":"Not Pending","title":""}
+{"lang":"javascript","time":"1 month","status_display":"Accepted","runtime":"88 ms","url":"/submissions/detail/166243636/","is_pending":"Not Pending","title":""}
+{"lang":"javascript","time":"1 month","status_display":"Accepted","runtime":"96 ms","url":"/submissions/detail/166243400/","is_pending":"Not Pending","title":""}
+{"lang":"javascript","time":"1 month","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/166243311/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158523249/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158522949/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158522779/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158522464/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158522231/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158522175/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158522086/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158521818/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158521414/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158521355/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158521182/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158441190/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158441101/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158440876/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158440760/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158440588/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158440526/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"10 ms","url":"/submissions/detail/156378902/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156377576/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156377512/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156376938/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156376902/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156376886/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156376779/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/156511815/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156511778/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/156509488/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156508973/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156507567/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156507327/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156507032/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156506937/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156506877/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156506810/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156494953/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156494654/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156494410/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156492888/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156491299/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156490552/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156490497/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156490410/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156489836/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156488515/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158435254/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158434894/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/158434091/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/158433978/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158433907/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158433861/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158433821/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158433763/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158433723/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158433680/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"64 ms","url":"/submissions/detail/158431740/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"68 ms","url":"/submissions/detail/158431701/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"5 ms","url":"/submissions/detail/155761319/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"6 ms","url":"/submissions/detail/155761207/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155761067/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"6 ms","url":"/submissions/detail/155760573/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155760495/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/155760345/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/155759473/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/152626161/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152626040/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152625990/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152625950/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152625930/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/152625918/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158431045/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158430922/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158426139/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/158425923/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/158425838/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158424843/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158424658/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158424613/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158424530/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158424468/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/158424342/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/158424072/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/158423881/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158423025/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158422888/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/158422805/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/158422791/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/158422565/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158422445/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158422170/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158422123/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158421678/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158421597/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158420102/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158419949/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158381676/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158380965/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/158380760/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158379255/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/158379210/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158379010/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158378962/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"9 ms","url":"/submissions/detail/155676103/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"13 ms","url":"/submissions/detail/155676073/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155675965/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155675932/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/155675768/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/155675539/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/155675369/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155675326/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/155674932/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158376743/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158375729/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158375518/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158375386/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158374417/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/158374364/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/158374292/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/158374260/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158374067/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158418888/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158418824/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158418757/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158418699/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"528 ms","url":"/submissions/detail/158418254/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158418215/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158418175/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/152625548/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/152624994/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 1 week","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/146261205/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 1 week","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/146261051/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 1 week","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/146260969/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157838363/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157838315/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157838178/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157838112/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157838037/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/157836737/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"396 ms","url":"/submissions/detail/158284473/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158284378/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/158284364/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158284140/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158284019/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/158279888/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"16 ms","url":"/submissions/detail/158278833/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/158277972/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158277913/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"7 ms","url":"/submissions/detail/155678643/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155678614/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155678564/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/155678545/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/155678528/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/155678520/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"137 ms","url":"/submissions/detail/155678244/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"145 ms","url":"/submissions/detail/155678227/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155678119/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155677925/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/155677707/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/155677425/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/155677392/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/155677376/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/157925308/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157925010/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157924891/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157924816/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157924759/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157924513/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157924259/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157922791/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157922372/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157921960/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157921070/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157921015/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157920967/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157920908/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/157920741/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157920046/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157919947/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157919667/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157919540/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157919453/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/155603746/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/155603683/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/155603581/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/155603552/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 1 week","status_display":"Accepted","runtime":"7 ms","url":"/submissions/detail/146229485/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146222803/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158266769/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"12 ms","url":"/submissions/detail/158266723/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"5 ms","url":"/submissions/detail/156704101/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/156704045/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156703985/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156703930/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156703436/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156702843/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156702586/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156702522/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156701911/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/156701894/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/156701753/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Accepted","runtime":"12 ms","url":"/submissions/detail/146071133/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/146071095/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158264710/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158264681/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158264592/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"6 ms","url":"/submissions/detail/155602659/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/155602526/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158263508/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158263494/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/158263458/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158263291/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/158263274/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/157835738/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"272 ms","url":"/submissions/detail/157835040/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157834236/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157834217/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"1176 ms","url":"/submissions/detail/157833864/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157833742/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157833458/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157833368/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"1072 ms","url":"/submissions/detail/157832213/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157832165/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157831307/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157831260/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157829935/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157829073/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157829029/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/157827797/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/157827650/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157827604/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/158291543/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Accepted","runtime":"7 ms","url":"/submissions/detail/146070525/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146070417/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/146065140/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/146064814/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146064714/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146063958/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146063799/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146063727/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146063395/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146063333/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146063287/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146063264/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146063212/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/146063158/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/146061583/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Accepted","runtime":"514 ms","url":"/submissions/detail/145915629/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"16 ms","url":"/submissions/detail/158262874/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"20 ms","url":"/submissions/detail/158262831/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"24 ms","url":"/submissions/detail/158262784/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158262691/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158262518/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158262443/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158262343/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158262268/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158262196/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158262063/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158262030/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158261961/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158261832/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158261797/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/158261728/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158261657/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/158261636/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158261515/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158261506/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/158261447/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/157827185/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/157827154/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"152 ms","url":"/submissions/detail/157804015/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"152 ms","url":"/submissions/detail/157803951/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/157803931/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157803594/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/157803543/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157803184/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157803042/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"1072 ms","url":"/submissions/detail/157790579/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Memory Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157790519/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157790303/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157790182/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157789610/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Memory Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157789488/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157788128/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157784348/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157784233/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Memory Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157783349/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Memory Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157782677/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157782207/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157780563/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/159335062/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 2 weeks","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/159334562/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Accepted","runtime":"17 ms","url":"/submissions/detail/145901068/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/145900829/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/145900548/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/145900419/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145899957/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145899694/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/145897168/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145896494/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/145896434/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145889481/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145889418/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145889377/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145889156/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145888802/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/145888679/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/145888523/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/145888342/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/145888248/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/145888108/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145888053/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/157750316/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/157749672/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/157749518/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"36 ms","url":"/submissions/detail/156366646/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"36 ms","url":"/submissions/detail/156366479/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/156365501/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/156364570/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/156364431/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156364334/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"622 ms","url":"/submissions/detail/156361908/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156361384/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/156361326/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/156361246/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"3 ms","url":"/submissions/detail/155466018/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155465522/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155465273/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155464081/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/155464036/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/155463903/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155463616/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/155463441/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"236 ms","url":"/submissions/detail/156360455/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"250 ms","url":"/submissions/detail/156360261/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156360051/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156359875/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156359478/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156359174/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156358923/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156358843/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156357483/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156357387/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156357121/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156356651/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156356552/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156356484/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156356446/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156355566/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156355521/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"72 ms","url":"/submissions/detail/157589746/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"72 ms","url":"/submissions/detail/157589524/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"76 ms","url":"/submissions/detail/157589319/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157589067/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157588376/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157588330/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157588094/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157587682/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157587574/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157587172/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157587072/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157587006/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157586918/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157586126/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157585316/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157585126/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157584308/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157583608/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157583511/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/157583472/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Accepted","runtime":"13 ms","url":"/submissions/detail/145834884/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/145749671/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/145746337/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/145746013/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/145745664/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/145745653/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/145745567/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/145745421/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/145745018/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/145744551/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/145744391/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/145743719/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/145743638/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/145743617/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145743514/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145743321/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145743101/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145743004/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/145742865/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145742508/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Accepted","runtime":"117 ms","url":"/submissions/detail/145887469/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"54 ms","url":"/submissions/detail/155456523/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/155455988/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Accepted","runtime":"12 ms","url":"/submissions/detail/154891312/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Accepted","runtime":"611 ms","url":"/submissions/detail/154890580/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Accepted","runtime":"619 ms","url":"/submissions/detail/154890507/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/154890450/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/154890420/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/154890355/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/154890159/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/154889985/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/154889935/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/154889860/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154889810/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/154889087/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/154888246/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/154888217/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/154888156/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/154886562/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154886392/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154886326/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154886271/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/154886239/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 3 weeks","status_display":"Accepted","runtime":"56 ms","url":"/submissions/detail/157744949/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157163010/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157162531/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157162464/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157162303/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"2 months, 4 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157159217/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157009515/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157008882/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157007488/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157007472/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/157007085/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157007044/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157006997/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/152476629/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152476585/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/152476540/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/152476315/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/152476097/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/152475848/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"4 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/152475709/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Accepted","runtime":"138 ms","url":"/submissions/detail/154875318/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/154875207/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/154875191/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/154875159/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/154875132/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Accepted","runtime":"318 ms","url":"/submissions/detail/145883173/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145882585/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145882407/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145882147/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/157003818/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Accepted","runtime":"23 ms","url":"/submissions/detail/154878956/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154878643/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154878438/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/154878399/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154878107/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154878039/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154877847/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154877790/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154877661/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154877647/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154877381/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154877285/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154877250/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154877238/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154876802/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/157001526/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Accepted","runtime":"30 ms","url":"/submissions/detail/145731365/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145730722/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145728973/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145728687/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/145728036/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145727941/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145727762/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145727427/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/145727139/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145726904/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/145726818/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/157001324/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Accepted","runtime":"74 ms","url":"/submissions/detail/154875414/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Accepted","runtime":"76 ms","url":"/submissions/detail/154789999/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Accepted","runtime":"89 ms","url":"/submissions/detail/154789973/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/154789900/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/154789882/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/154789843/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/154789827/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"4 ms","url":"/submissions/detail/157000188/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/157000171/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156999188/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156999036/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/156998939/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"112 ms","url":"/submissions/detail/156998551/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Accepted","runtime":"173 ms","url":"/submissions/detail/154784574/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154784305/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154784235/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154784209/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154784149/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154783989/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154783952/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154781647/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154781214/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154781197/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/154781183/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154781122/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/154781017/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154780767/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"16 ms","url":"/submissions/detail/156997953/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"32 ms","url":"/submissions/detail/156997931/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156997901/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156997841/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156997763/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156997738/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156997705/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156997358/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Memory Limit Exceeded","runtime":"N/A","url":"/submissions/detail/156997213/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156997035/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/156996800/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 1 week","status_display":"Accepted","runtime":"70 ms","url":"/submissions/detail/146250969/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Accepted","runtime":"84 ms","url":"/submissions/detail/146081926/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146080662/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146080617/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/146080474/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146079808/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146079752/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146076454/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/146075873/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"8 ms","url":"/submissions/detail/156994220/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"16 ms","url":"/submissions/detail/156994184/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156994125/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156993958/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156993736/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156993658/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Time Limit Exceeded","runtime":"N/A","url":"/submissions/detail/156993410/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156993388/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156993264/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156993242/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156993184/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156993174/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156992889/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156992867/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156992688/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156992676/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Accepted","runtime":"93 ms","url":"/submissions/detail/154779126/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154779096/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Runtime Error","runtime":"N/A","url":"/submissions/detail/154778631/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/154778611/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156992502/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"42 ms","url":"/submissions/detail/155493293/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Accepted","runtime":"55 ms","url":"/submissions/detail/154776208/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/154776112/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Accepted","runtime":"0 ms","url":"/submissions/detail/156992175/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156992100/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156991698/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/156991616/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months","status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/156991611/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Accepted","runtime":"158 ms","url":"/submissions/detail/155493019/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"3 months, 1 week","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/155492736/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Accepted","runtime":"125 ms","url":"/submissions/detail/145739446/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145738893/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145738123/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145737930/","is_pending":"Not Pending","title":""}
+{"lang":"cpp","time":"5 months, 2 weeks","status_display":"Wrong Answer","runtime":"N/A","url":"/submissions/detail/145737466/","is_pending":"Not Pending","title":""}

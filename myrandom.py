@@ -10,6 +10,7 @@
 #sample(pop, k) 从pop类型中随机选取k个元素,以列表类型返回
 #设置随机数种子的好处是可以准确复现随机数序列,用于重复程序的运行轨迹。对于仅使用随机数但不需要复现的情形,可以不用设置随机数种子。
 from random import *
+#seed(1)
 print(random())
 print(randint(1,10))
 print(getrandbits(10)) #[0:2**k]中随机整数
@@ -21,3 +22,5 @@ print(x)
 x = {i for i in range(10)}
 print(x)
 print(sample(x,3))
+import sys
+print(sys.argv)

@@ -53,4 +53,5 @@ def main():
         newdata.append(y)
     showtable(newdata)
     writen('predicteddata.csv',newdata)
-main()
+if __name__ == '__main__':
+    main()

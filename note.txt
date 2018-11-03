@@ -110,6 +110,10 @@ min(x 1 , x 2 , ..., x n ) x 1 , x 2 , ..., x n 的最小值,n没有限定
 def <函数名>(<非可选参数列表>, <可选参数> = <默认值>):
 <函数体>
 return <返回值列表>
+调用函数时可使用的正式参数类型：必需参数
+                        　 关键字参数
+                           默认参数
+                           不定长参数
 如果需要返回值,使用保留字return和返回值列表。函数可以没有return语句,函数体结束后会将控制权返回给调用者。
 9.2 函数的使用一共分为四个步骤:1. 函数定义 2. 函数调用 3. 函数执行 4. 函数返回
 9.3 参数传递
@@ -155,39 +159,7 @@ del <列表变量>[<索引序号>] 或 del <列表变量>[<索引起始>: <索�
 文件打开后,对文件的读写有一个读取指针,当从文件中读入内容后,读取指针将向前进,再次读取的内容将从指针的新位置开始。
 11.5 写：f.write(s) 向文件写入一个字符串或字节流 f.writelines(lines) 将一个元素为字符串的列表写入文件
 11.6 逗号分割的存储格式叫做CSV格式
-第八章　python计算生态
-12.1 68个解释器内置函数:
-abs(x)
-all(x)
-any(x)
-bin(x)
-bool(x)
-chr(i)
-complex(r,i)
-dict()
-divmod(a,b)
-eval(s)
-exec(s)
-float(x)
-hex(x)
-input(s)
-int(x)
-list(x)
-max(a1,a2,...)
-min(a1,a2,...)
-oct(x)
-open(fname, m)
-ord(c)
-pow(x,y)
-print(x)
-range(a,b,s)
-reversed(r)
-round(n)
-set(x)
-sorted(x)
-str(x)
-sum(x)
-type(x)
+
 
 
 

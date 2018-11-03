@@ -97,9 +97,19 @@ d = {'1':1,'2':2,'3':3}
 print(d.items()) #返回dicr_items类型　可用list()转化为list
 print(d.get('3'),d.get('4',"don't exisit"))
 del d['1']
-print(d)
+print(d.popitem())
 
-
+import myclass
+m = myclass.man('cedricxs','22')
+print(type(m))
+print(dir(myclass))  #给出myclass模块中所有的属性和方法
+print(dir()) #当前模块的属性和方法
+#bytes类型为字节流数据，是按某种编码方式变成的二进制数据，需要用decode('utf-8')（例）方法解码为可读数据
+#同样str类型的数据也可以用encode('utf-8')方法编码成指定编码的字节流数据。
+s = '你叫什么？'
+t = s.encode('utf-8')
+s = t.decode('utf-8')
+print(t,s)
 
 
 
