@@ -121,6 +121,7 @@ return <返回值列表>
 9.2 函数的使用一共分为四个步骤:1. 函数定义 2. 函数调用 3. 函数执行 4. 函数返回
 9.3 参数传递
 可选参数一般都放置在非可选参数的后面，定义时给出默认值。Python语言同时支持函数按照参数名称方式传递参数,语法形式如下:<函数名>(<参数名> = <实际值>)
+在python中，可变数据类型的参数传递为引用传递，不可变数据类型的传递为值传递
 9.4 函数的返回值
 函数可以没有return,此时函数并不返回值。当函数使用return返回多个值,可以使用一个变量或多个变量保存结果
 9.5 变量的作用域
@@ -143,6 +144,7 @@ s.index(x) s.count(x) min/max(s) s+t x in s x not in s
 通过键索引值.min/max(d)字典d中键的最小/大值
 d.keys()　d.values()　d.items()　d.get(key, default) d.pop(key, default) d.popitem() d.clear()
 x in s x not in s 判断一个键是否在字典中
+可以用dic = {k:v for k in iterable1 v in iterable2}, liste = [v for v in iterable]来快速定义字典或列表
 10.6 列表类型用中括号([])表示,也可以通过list(x)函数将集合或字符串类型转换成列表类型。
 操作函数或方法:s.apppend() s.insert(i,x) s.clear() s.pop(i) s.remove(x) s.reverse() s.copy() 
 除了上述方法,还可以使用Python保留字del对列表元素或片段进行删除,使用方法如下:
