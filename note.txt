@@ -146,7 +146,7 @@ d.keys()　d.values()　d.items()　d.get(key, default) d.pop(key, default) d.po
 x in s x not in s 判断一个键是否在字典中
 可以用dic = {k:v for k in iterable1 v in iterable2}, liste = [v for v in iterable]来快速定义字典或列表
 10.6 列表类型用中括号([])表示,也可以通过list(x)函数将集合或字符串类型转换成列表类型。
-操作函数或方法:s.apppend() s.insert(i,x) s.clear() s.pop(i) s.remove(x) s.reverse() s.copy() 
+操作函数或方法:s.apppend() s.insert(i,x) s.clear() s.pop(i) s.remove(x) s.reverse() s.copy() s.index(x)
 除了上述方法,还可以使用Python保留字del对列表元素或片段进行删除,使用方法如下:
 del <列表变量>[<索引序号>] 或 del <列表变量>[<索引起始>: <索引结束>]
 第七章 文件和数据格式化
