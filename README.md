@@ -16,6 +16,7 @@
     同样，在根目录的__init__.py中引入其子文件夹，
     首先执行子文件夹下的__init__.py，
     由子文件夹下的__init__.py来决定引入子文件夹引入了什么内容
+    测试可见changer_test/__init__.py
     
 * 有关python引用目录:<br>
     可以引入sys,print(sys.path)查看当前python引用库目录
