@@ -1,0 +1,4 @@
+this is a log info indique that a decorated method has been called at 2020-10-07 05:26:21.572444.
+this is a method normal which does a+b=6
+this is a log info indique that a decorated method has been called at 2020-10-07 05:26:25.895855.
+this is a method normal which does a+b=6
